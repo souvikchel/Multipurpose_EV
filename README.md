@@ -37,9 +37,16 @@ This project combines **hardware innovation** with **software engineering** to c
 ## 📸 Media & Prototype  
 (Add images, diagrams, or prototype photos here)  
 
-## 👨‍💻 Team & Leadership  
-Led by **Khandakar Nafees Hossain** (Team Lead) with team members from the IIFR Lab, Institute of Engineering & Management, Kolkata.  
+👨‍💻 Team & Leadership
 
----
+This project was developed by the IIFR Lab Team, Institute of Engineering & Management (IEM), Kolkata.
+
+Team Members
+
+Khandakar Nafees Hossain — Team Lead
+
+Souvik Chel — Research & Development / Software Support
+
+Dhritiman Bera — Hardware Development & Field Testing
 🔗 **Future Scope:** Scaling the model for rural adoption, integrating IoT dashboards, and optimizing control algorithms with ML-based energy prediction.  
 
