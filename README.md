@@ -34,19 +34,18 @@ This project combines **hardware innovation** with **software engineering** to c
 - 🎤 Presented innovations at the **IEEE Smart Village Symposium 2024**  
 - 📄 Ongoing **research publication**  
 
-## 📸 Media & Prototype  
-(Add images, diagrams, or prototype photos here)  
 
-👨‍💻 Team & Leadership
 
-This project was developed by the IIFR Lab Team, Institute of Engineering & Management (IEM), Kolkata.
+## 👨‍💻 Team & Leadership
 
-Team Members
+This project was developed by the **IIFR Lab Team, Institute of Engineering & Management (IEM), Kolkata**.
 
-Khandakar Nafees Hossain — Team Lead
+### Team Members
 
-Souvik Chel — Research & Development / Software Support
+- **Khandakar Nafees Hossain** — Team Lead  
+- **Souvik Chel** — Research & Development / Software Support  
+- **Dhritiman Bera** — Hardware Development & Field Testing  
 
-Dhritiman Bera — Hardware Development & Field Testing
+---
 🔗 **Future Scope:** Scaling the model for rural adoption, integrating IoT dashboards, and optimizing control algorithms with ML-based energy prediction.  
 
